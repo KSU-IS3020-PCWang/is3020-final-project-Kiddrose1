@@ -1,32 +1,40 @@
+
 # IS 3020 Final Project
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Donald Idugboe
+- GitHub username: Kiddrose1
+- Project title: Personal Income and Expense Tracker
+- Application purpose: This Python application helps college students and individuals track their income and expenses, organize transactions, and calculate their remaining balance.
 
 ## How to Run the Application
 
-Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
+Open the project in PyCharm and run income_expense_tracker.py using Python 3.
 
 ## Major Features
 
-List the major user-facing features implemented in the final application.
+Planned features:
+- Add income and expense transactions
+- View transaction history
+- Calculate total income and expenses
+- Display remaining balance
+- Delete incorrect transactions
+- Save and load transactions using CSV files
 
 ## Python Concepts Used
 
-Explain how the application uses functions, collections, conditionals, loops, file persistence, and exception handling.
+The application will use functions, variables, lists, dictionaries, loops, conditional statements, file handling, and exception handling.
 
 ## Data Files
 
-Describe each CSV or JSON file and provide a brief explanation of its fields.
+The application will use transactions.csv to store transaction dates, types, categories, descriptions, and amounts.
 
 ## Testing Summary
 
-Describe the major scenarios tested, including invalid input and file-related errors.
+Testing will include adding transactions, calculating balances, checking invalid inputs, and verifying saved records.
 
 ## AI Use
 
-Complete `AI_USAGE.md` and summarize the most important AI-assisted improvements here.
+AI assistance was used to help plan the project structure and prepare the initial documentation. Additional AI-assisted changes will be documented in AI_USAGE.md.
+
